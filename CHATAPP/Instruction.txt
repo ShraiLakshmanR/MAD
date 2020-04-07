@@ -1,0 +1,6 @@
+Install App on 2 different mobiles.
+Enable bluetooth in both.
+Device 1:Click Listen
+Device 2:Lists Device
+Next click on the required device to setup connection
+once Connected Start Sending Messages
