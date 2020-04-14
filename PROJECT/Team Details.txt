@@ -2,3 +2,13 @@ Small video of Student Managment System App showing GUI of the 3 users.
 1st part-Teacher login-00:00-13:00 seconds
 2nd part-Student Login-13:01-19:05 seconds
 3rd part-Parent Login-19:08-28:30 seconds
+
+
+
+
+
+/*TEAM MEMBERS*\
+1)Shrai Lakshman R-1BM17CS149
+2)Karthik M Sanikop-1BM16CS038
+3)Shashank Reddy-1BM17CS093
+4)Sagar BJ-1BM17CS084
